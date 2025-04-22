@@ -54,7 +54,13 @@ class Program{
     personalAccount.Deposit(10000); 
     personalAccount.DisplayAccountInfo();
 
-    
+
+
+    Console.WriteLine("== Multiple+  Hybrid Inheritance=="); 
+    HybridAccount hybrid = new HybridAccount("Nishan","ASD124456",50000,5,"P1234");
+    hybrid.PayUtilityBill(3000);
+    hybrid.DisplayAccountInfo();
+
 
 
 
