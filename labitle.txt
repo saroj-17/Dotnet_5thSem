@@ -1,0 +1,38 @@
+Lab 1: 
+CONSOLE AND GUI APPLICATION IN .NET
+
+OBJECTIVE: 
+- To create and run a basic .NET console application and print some message 
+- To create and run a basic .NET GUI Application with a button and label 
+
+
+Lab2: 
+Basics of C# 
+
+OBJECTIVE: 
+- To understand and use valid identifier in c# 
+- To understand single-line and multi-line comment in c# for debugging 
+- To declare and use various datatype like int, float, char, string, and bool 
+- To create expression using arithmetic, assignment, logical operators . 
+- To declare, manipulate, and perform various string and char types operation . 
+
+
+Theory: 
+1) C# Introduction 
+2) Identifiers in C# 
+
+
+lab 3: Arrays in C# [VIP] 
+Objective: 
+- To declare , initialize, and store multiple values in a single array of the same datatype 
+- To retrieve , update, and loop through array elements using index(for each()) 
+- To implement multidimensional array (2D/3D) and jagged arrays(arrays with in array) to handle complex data structure 
+
+
+
+lab 4 : Understanding Statements and Namespace in C#
+
+Objectives: 
+- To implement different type of statements in C# 
+- To explore control flow through selection, iteration and jumping statements 
+- To demonstrate the concept of Namespace in C# 

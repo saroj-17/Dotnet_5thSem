@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\bin\Debug\net8.0\MyConsoleApplication.exe
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\bin\Debug\net8.0\MyConsoleApplication.deps.json
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\bin\Debug\net8.0\MyConsoleApplication.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\bin\Debug\net8.0\MyConsoleApplication.dll
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\bin\Debug\net8.0\MyConsoleApplication.pdb
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\MyConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\MyConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\MyConsoleApplication.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\MyConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\MyConsoleApplication.dll
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\refint\MyConsoleApplication.dll
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\MyConsoleApplication.pdb
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\MyConsoleApplication.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\MyConsoleApplication\obj\Debug\net8.0\ref\MyConsoleApplication.dll

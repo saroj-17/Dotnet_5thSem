@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\bin\Debug\net8.0\DotnetBasics.exe
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\bin\Debug\net8.0\DotnetBasics.deps.json
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\bin\Debug\net8.0\DotnetBasics.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\bin\Debug\net8.0\DotnetBasics.dll
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\bin\Debug\net8.0\DotnetBasics.pdb
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\DotnetBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\DotnetBasics.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\DotnetBasics.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\DotnetBasics.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\DotnetBasics.dll
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\refint\DotnetBasics.dll
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\DotnetBasics.pdb
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\DotnetBasics.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\DotnetBasics\obj\Debug\net8.0\ref\DotnetBasics.dll
