@@ -49,6 +49,15 @@ class Program{
     savingAccount.DisplayAccountInfo(); 
 
 
+    Console.WriteLine("== Multilevel Inheritance ==");
+    PersonalAccount personalAccount = new PersonalAccount("Rythm","ASD124456",5,50000,"P1234");
+    personalAccount.Deposit(10000); 
+    personalAccount.DisplayAccountInfo();
+
+    
+
+
+
 
 
 

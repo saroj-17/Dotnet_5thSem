@@ -26,3 +26,4 @@ C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\oop_using_CSharp\obj\Debug\net8.0\refi
 C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\oop_using_CSharp\obj\Debug\net8.0\oop_using_C#.pdb
 C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\oop_using_CSharp\obj\Debug\net8.0\oop_using_C#.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\oop_using_CSharp\obj\Debug\net8.0\ref\oop_using_C#.dll
+C:\Users\HP\OneDrive\Desktop\Dotnet_Saroj\oop_using_CSharp\obj\Debug\net8.0\oop_using_C#.sourcelink.json
