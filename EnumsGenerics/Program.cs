@@ -108,7 +108,22 @@ class Program{
             box.DisplayValue(); // Output: Value: One, Type: System.String, etc.
         }
 
-        //Generic Methods 
+        //Generic Methods objects for swapping values 
+        int a = 5, b =30; 
+        Console.WriteLine($"Before Swap: a = {a}, b = {b}");
+        // Utility u = new Utility();
+
+        Utility.Swap(ref a, ref b); // Swap the values of a and b using the generic method
+        Console.WriteLine($"After Swap: a = {a}, b = {b}");
+
+        //string type swap 
+        string str1 = "Hello", str2 = "World";
+        Console.WriteLine($"Before Swap: str1 = {str1}, str2 = {str2}");
+        Utility.Swap(ref str1, ref str2); // Swap the values of str1 and str2 using the generic method
+        //after swap
+        Console.WriteLine($"After Swap: str1 = {str1}, str2 = {str2}");
+
+        
 
     }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnumsGenerics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c5ef6577d7e204bd489c83fe7dbac0b68acc785")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79d12b8e73a2bafb287aca54e67c7209a9512f4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnumsGenerics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnumsGenerics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
