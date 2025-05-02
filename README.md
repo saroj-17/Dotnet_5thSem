@@ -70,3 +70,73 @@
 - Understand and apply the concept of **Generics** in C# for type-safe, reusable code.
 
 ---
+
+---
+
+##  Lab 08: Delegates and Events in C#  
+🎯 **Objective:**  
+- Understand and implement **delegates** (single-cast and multi-cast).  
+- Use **events** to trigger notifications.  
+- Show real-world use case, such as a **notification system** using delegates and events.
+
+---
+
+##  Lab 09: Exception Handling in C#  
+**Objective:**  
+- Handle common exceptions using `try-catch-finally`.  
+- Practice handling **custom exceptions**.  
+- Handle **nested exceptions** using nested `try-catch`.
+
+**Lab Structure:**  
+- **File Handling:** `FileNotFoundException`, `IOException`  
+- **Arithmetic:** `DivideByZeroException`, `OverflowException`  
+- **Arrays:** `IndexOutOfRangeException`  
+- **Null Handling:** `NullReferenceException`  
+- **Custom Exception:** `MyCustomException`
+
+---
+
+##  Lab 10: LINQ in C#  
+**Objective:**  
+- Understand and apply **Language Integrated Query (LINQ)** to query data from collections.  
+- Practice with filtering, sorting, grouping, and projections using LINQ syntax.
+
+---
+
+##  Lab 11: Database Connectivity in C#  
+**Objective:**  
+- Connect to a **SQL database** using `SqlConnection`.  
+- Perform **CRUD operations** (Create, Read, Update, Delete).  
+- Use **parameterized queries** to prevent SQL Injection.  
+- Read data using `SqlDataReader`.
+
+---
+
+##  Lab 12: Introduction to ASP.NET  
+**Objective:**  
+- Understand **ASP.NET Web Forms** or **MVC architecture**.  
+- Build simple web pages using server controls.  
+- Handle **form submissions**, **validation**, and **data binding**.  
+- Integrate with backend logic and display results dynamically.
+
+---
+
+## 💼 Final  Project – ASP.NET  
+**Objective:**  
+- Design and develop a **complete web application** using **ASP.NET** (MVC/Web Forms).  
+- Integrate **user login/registration**, **form submissions**, and **database interactions**.  
+- Apply core concepts from all labs:  
+  - Object-Oriented Programming  
+  - Exception Handling  
+  - LINQ  
+  - Delegates/Events  
+  - Interfaces  
+  - Database & ASP.NET
+
+**Project Ideas:**  
+- Online Feedback System  
+- Student Information Portal  
+- Task/To-Do Tracker  
+- Simple E-commerce Cart System  
+
+---
