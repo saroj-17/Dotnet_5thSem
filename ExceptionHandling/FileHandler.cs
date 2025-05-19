@@ -22,7 +22,7 @@ namespace ExceptionHandlingExample
                 //handle the exceptions 
                 Console.WriteLine("File not found: " + ex.Message);
             }
-            console.WriteLine("File handling completed.");
+            Console.WriteLine("File handling completed.");
         }
     }
 }

@@ -42,8 +42,10 @@ namespace ExceptionHandlingExample
             Console.WriteLine("Arithmetic operation completed.");
             ArrayHandler.HandleArrayException();
             Console.WriteLine("Array handling completed.");
-            CustomExceptionHandler.HandleCustomException();
-            Console.WriteLine("Custom exception handling completed.");
+            NullHandler.HandleNullException();
+            Console.WriteLine("Null handling completed.");
+            VotingExceptionHandler.HandleVotingException();
+            Console.WriteLine("Voting exception handling completed.");
             Console.WriteLine("Program completed successfully.");
 
         }
