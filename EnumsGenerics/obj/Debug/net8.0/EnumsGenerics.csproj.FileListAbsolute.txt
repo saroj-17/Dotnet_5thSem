@@ -1,0 +1,15 @@
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\bin\Debug\net8.0\EnumsGenerics.exe
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\bin\Debug\net8.0\EnumsGenerics.deps.json
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\bin\Debug\net8.0\EnumsGenerics.runtimeconfig.json
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\bin\Debug\net8.0\EnumsGenerics.dll
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\bin\Debug\net8.0\EnumsGenerics.pdb
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.AssemblyInfoInputs.cache
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.AssemblyInfo.cs
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.sourcelink.json
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.dll
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\refint\EnumsGenerics.dll
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.pdb
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\EnumsGenerics.genruntimeconfig.cache
+C:\Users\Saroj\Desktop\Dotnet_5thSem\EnumsGenerics\obj\Debug\net8.0\ref\EnumsGenerics.dll

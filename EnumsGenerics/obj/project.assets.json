@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Saroj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Dotnet_Saroj\\EnumsGenerics\\EnumsGenerics.csproj",
+      "projectUniqueName": "C:\\Users\\Saroj\\Desktop\\Dotnet_5thSem\\EnumsGenerics\\EnumsGenerics.csproj",
       "projectName": "EnumsGenerics",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Dotnet_Saroj\\EnumsGenerics\\EnumsGenerics.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Dotnet_Saroj\\EnumsGenerics\\obj\\",
+      "projectPath": "C:\\Users\\Saroj\\Desktop\\Dotnet_5thSem\\EnumsGenerics\\EnumsGenerics.csproj",
+      "packagesPath": "C:\\Users\\Saroj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Saroj\\Desktop\\Dotnet_5thSem\\EnumsGenerics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Saroj\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
