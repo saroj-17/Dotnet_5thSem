@@ -30,3 +30,16 @@ public class Box<T>
         Console.WriteLine($"Type: {value.GetType()}");
     }
 }
+
+public class Utility
+{
+    //generic methods 
+    public static void Swap<T>(ref T a, ref T b)
+    {
+        T temp; 
+        temp = a; 
+        a = b;
+        b = temp;  
+    }
+
+}

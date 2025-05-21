@@ -33,11 +33,12 @@ Objective:
 lab 4 : Understanding Statements and Namespace in C#
 
 Objectives: 
-- To implement different type of statements in C# 
+- To implement different type of statements(decision control statement, looping control statement, conditional control statement, JUMP)  in C# 
 - To explore control flow through selection, iteration and jumping statements 
 - To demonstrate the concept of Namespace in C# 
 
 
+<<<<<<< HEAD
 Lab 8: Delegates and Events 
 Objectives: 
 
@@ -48,3 +49,28 @@ Objectives:
 Program.cs  //main 
 Notifier.cs 
 Subscriber.cs 
+=======
+lab 5: Object Oriented Programming in C# 
+
+Objective: 
+
+- To understand classes and objects in C#
+- To demonstrate the concept of constructors and destructors in C# 
+- To implement different types of Inheritance 
+- To implement polymorphism features of C#
+- To demonstrate concept of encapsulation and abstraction 
+
+
+Lab 6: Title Understanding Interfaces in C# Build a simple Notification System
+
+Lab Objective: 
+ 1. Define an interface with properties and methods
+ 2. Implement the interface in a class
+ 3. Create a list of objects that implement the interface
+ 4. Use interface polymorphism to call methods on the objects in the list
+ 5. To implement multiple intheritance using interface
+
+
+
+
+>>>>>>> 59598623508d5a0abf11a147d5c9140f67026579
