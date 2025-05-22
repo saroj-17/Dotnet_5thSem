@@ -50,6 +50,19 @@ class Program
 
         public string city { get; set; }
     }
+
+    public class Employee
+    {
+        public int EmployeeId {get; set;}
+        public string EmployeeName {get; set;}
+        public int DepartmentId{get; set;}
+    }
+
+    public class Department
+    {
+        public int DepartmentId {get; set;}
+        public string DepartmentName{get;set;}
+    }
     static void Main(string[] args)
     {
         //linq to Objects 
@@ -137,7 +150,44 @@ class Program
         }
 
 
-        //Sorting, grouping and aggregation
+        //join operations
+
+        List<Employee> employees = new List<Employee>
+        {
+            new Employee {EmployeeId =101, EmployeeName="Karan", DepartmentId=200}, 
+            new Employee {EmployeeId =102, EmployeeName="Karan", DepartmentId=201}, 
+            new Employee {EmployeeId =103, EmployeeName="Karan", DepartmentId=200}, 
+            new Employee {EmployeeId =104, EmployeeName="Karan", DepartmentId=201}, 
+            new Employee {EmployeeId =105, EmployeeName="Karan", DepartmentId=200}, 
+            new Employee {EmployeeId =106, EmployeeName="Karan", DepartmentId=202}
+            
+        };
+
+        List<Department> departments = new List<Department>
+        {
+            new Department{DepartmentId=200, DepartmentName = "HR"},
+            new Department{DepartmentId = 201, DepartmentName = "Production"},
+            new Department{DepartmentId = 202, DepartmentName = "Sales"}
+
+        };
+
+        //join employess with department 
+        var employeDepartment = from e in employees
+                                join d in departments
+                                on e.DepartmentId equals d.DepartmentId
+                                select new {e.EmployeeName, d.DepartmentName};
+
+
+        Console.WriteLine("Employees and their departments"); 
+        foreach(var item in employeDepartment)
+        {
+            Console.WriteLine($"{item.EmployeeName} works in {item.DepartmentName}");
+        }
+
+    
+
+
+
 
 
 
