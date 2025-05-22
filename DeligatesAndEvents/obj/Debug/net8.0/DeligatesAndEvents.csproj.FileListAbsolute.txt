@@ -1,0 +1,15 @@
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\bin\Debug\net8.0\DeligatesAndEvents.exe
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\bin\Debug\net8.0\DeligatesAndEvents.deps.json
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\bin\Debug\net8.0\DeligatesAndEvents.runtimeconfig.json
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\bin\Debug\net8.0\DeligatesAndEvents.dll
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\bin\Debug\net8.0\DeligatesAndEvents.pdb
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.AssemblyInfo.cs
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.sourcelink.json
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.dll
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\refint\DeligatesAndEvents.dll
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.pdb
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\DeligatesAndEvents.genruntimeconfig.cache
+C:\Users\Saroj\Desktop\Dotnet_5thSem\DeligatesAndEvents\obj\Debug\net8.0\ref\DeligatesAndEvents.dll

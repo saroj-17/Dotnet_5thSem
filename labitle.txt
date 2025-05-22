@@ -38,6 +38,16 @@ Objectives:
 - To demonstrate the concept of Namespace in C# 
 
 
+Lab 8: Delegates and Events 
+Objectives: 
+
+- To Understand and implement Delegates (Single and Multiple casting)
+- To use events to trigger notification in simple scenario
+
+//Folder structure 
+Program.cs  //main 
+Notifier.cs 
+Subscriber.cs 
 lab 5: Object Oriented Programming in C# 
 
 Objective: 

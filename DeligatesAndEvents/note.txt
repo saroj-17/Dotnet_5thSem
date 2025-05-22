@@ -1,0 +1,27 @@
+Deligates and Events: 
+    In c# Deligates and Events are used to implement event driven programming GUI. 
+
+Deligates: 
+    Deligates is a type that represent references to method with special parameters and return value. 
+
+    //syntax 
+    public deligate void MyDeligate(string message); 
+
+    public void showMessage(string message)
+    {
+        Console.WriteLine(message);
+    }
+
+    //use 
+    MyDeligate del = showMessage; 
+    del("Hello from deligates);
+
+    -> Deligate is a type save function pointer 
+    -> It can point both static and instance methods 
+    -> It supports multicasting(invoing multiple methods)
+
+Events: 
+-> An event is a wrapper around deligate and is used to singnal that something has happened. 
+-> Event provide a way to subscribe and respond to action 
+-> Only the class that declares events can raise it. 
+-> Other classes can only subscribe to the events like -=, +=
