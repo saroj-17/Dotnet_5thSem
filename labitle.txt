@@ -60,4 +60,14 @@ Lab Objective:
 
 
 
+ Lab 7 :
+    Title:  Enums and Generics programming in C# 
+
+    Objective: 
+
+    -> To understand the concept of ENUMS in C# 
+    -> To understand the concept of GENERICS in C#
+
+
+
 
