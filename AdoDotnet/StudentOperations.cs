@@ -1,5 +1,6 @@
 using System; 
 using System.Data.SqlClient;
+using MySql.Data.MySqlClient;
 
 
 public class StudentOperations
@@ -18,13 +19,13 @@ public class StudentOperations
         conn.Close();
     }
 
-    public void Read(int id)
+    public void Read()
     {
         using var conn = DbHelper.GetConnection();
         conn.Open();
-        string query = "SELECT * FROM Students WHERE Id = @Id";
+        string query = "SELECT * FROM Students";
         using var cmd = new MySqlCommand(query, conn);
-        cmd.Parameters.AddWithValue("@Id", id);
+        // cmd.Parameters.AddWithValue("@Id", id);
         using var reader = cmd.ExecuteReader();
         if (reader.Read())
         {

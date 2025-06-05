@@ -1,4 +1,4 @@
-using Mysql.Data.MySqlClient;
+using MySql.Data.MySqlClient;
 using System;
 
 
