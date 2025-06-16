@@ -1,0 +1,24 @@
+@model EmployeeManagementSystem.Models.Employee
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+<div class="card mt-4">
+    <div class="card-body">
+        <h5 class="card-title
+">@Model.Name</h5>
+        <p class="card-text"><strong>Employee No:</strong> @Model.EmpNo</p>
+        <p class="card-text"><strong>Email:</strong> @Model.Email</p>
+        <p class="card-text"><strong>Phone No:</strong> @Model.PhoneNo</p>
+        <p class="card-text"><strong>Company:</strong> @Model.Company</p>
+        <p class="card-text"><strong>Department:</strong> @Model.Department</p>
+        <p class="card-text"><strong>Joining Date:</strong> @Model.JoiningDate.ToString("dd/MM/yyyy")</p>
+        <p class="card-text"><strong>Salary:</strong> @Model.Salary.ToString("C")</p>
+        <a asp-action="Edit" asp-route-id="@Model.EmpNo" class="btn btn-primary">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>  
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -35,7 +35,7 @@ public class EmployeeController : Controller
                 EmpNo = reader["EmpNo"].ToString(),
                 Name = reader["Name"].ToString(),
                 Email = reader["Email"].ToString(),
-                Phone = reader["Phone"].ToString(),
+                PhoneNo = reader["PhoneNo"].ToString(),
                 Company = reader["Company"].ToString(),
                 Department = reader["Department"].ToString(),
                 JoiningDate = Convert.ToDateTime(reader["JoiningDate"]),
@@ -61,14 +61,14 @@ public class EmployeeController : Controller
         string connString = _configuration.GetConnectionString("DefaultConnection");
         var conn = new MySqlConnection(connString);
         conn.Open();
-        string query = "INSERT INTO Employees (EmpNo, Name, Email, Phone, Company, Department, JoiningDate, Salary) " +
-                       "VALUES (@EmpNo, @Name, @Email, @Phone, @Company, @Department, @JoiningDate, @Salary)";
+        string query = "INSERT INTO Employees (EmpNo, Name, Email, PhoneNo, Company, Department, JoiningDate, Salary) " +
+                       "VALUES (@EmpNo, @Name, @Email, @PhoneNo, @Company, @Department, @JoiningDate, @Salary)";
 
         var cmd = new MySqlCommand(query, conn);
         cmd.Parameters.AddWithValue("@EmpNo", employee.EmpNo);
         cmd.Parameters.AddWithValue("@Name", employee.Name);
         cmd.Parameters.AddWithValue("@Email", employee.Email);
-        cmd.Parameters.AddWithValue("@Phone", employee.Phone);
+        cmd.Parameters.AddWithValue("@PhoneNo", employee.PhoneNo);
         cmd.Parameters.AddWithValue("@Company", employee.Company);
         cmd.Parameters.AddWithValue("@Department", employee.Department);
         cmd.Parameters.AddWithValue("@JoiningDate", employee.JoiningDate);
@@ -105,7 +105,7 @@ public class EmployeeController : Controller
                 EmpNo = reader["EmpNo"].ToString(),
                 Name = reader["Name"].ToString(),
                 Email = reader["Email"].ToString(),
-                Phone = reader["Phone"].ToString(),
+                PhoneNo = reader["PhoneNo"].ToString(),
                 Company = reader["Company"].ToString(),
                 Department = reader["Department"].ToString(),
                 JoiningDate = Convert.ToDateTime(reader["JoiningDate"]),
@@ -136,14 +136,14 @@ public class EmployeeController : Controller
         var conn = new MySqlConnection(connString);
         conn.Open();
 
-        string query = "UPDATE Employees SET Name = @Name, Email = @Email, Phone = @Phone, Company = @Company, " +
+        string query = "UPDATE Employees SET Name = @Name, Email = @Email, PhoneNo = @PhoneNo, Company = @Company, " +
                        "Department = @Department, JoiningDate = @JoiningDate, Salary = @Salary WHERE EmpNo = @EmpNo";
 
         var cmd = new MySqlCommand(query, conn);
         cmd.Parameters.AddWithValue("@EmpNo", employee.EmpNo);
         cmd.Parameters.AddWithValue("@Name", employee.Name);
         cmd.Parameters.AddWithValue("@Email", employee.Email);
-        cmd.Parameters.AddWithValue("@Phone", employee.Phone);
+        cmd.Parameters.AddWithValue("@PhoneNo", employee.PhoneNo);
         cmd.Parameters.AddWithValue("@Company", employee.Company);
         cmd.Parameters.AddWithValue("@Department", employee.Department);
         cmd.Parameters.AddWithValue("@JoiningDate", employee.JoiningDate);
@@ -184,7 +184,7 @@ public class EmployeeController : Controller
     }
 
 
-    
+
 
 
 }

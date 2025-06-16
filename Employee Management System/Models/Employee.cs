@@ -13,8 +13,8 @@ namespace EmployeeManagementSystem.Models
 
         public string Email { get; set; }
 
-        [Display(Name = "Phone Number")]
-        public string Phone { get; set; }
+        [Display(Name = "PhoneNo")]
+        public string PhoneNo { get; set; }
         public string Company { get; set; }
         public string Department { get; set; }
 
